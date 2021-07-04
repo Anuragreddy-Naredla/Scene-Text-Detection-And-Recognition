@@ -1,5 +1,8 @@
 # Scene-Text-Detection-And-Recognition
 ![image](https://user-images.githubusercontent.com/69776971/124375846-c6615b00-dcc1-11eb-854b-1cc3f6c3fb2d.png)
+
+## Implementing the research paper from scratch:
+https://arxiv.org/pdf/1811.04256.pdf
 ## Buiness Problem
 The main objective of this Problem Statement is to detect the text from image and drawing a bounding box to that text and then recognize that text from bounding box we can also convert the text into another language. It mainly consists of three parts,
 1. Text Detector:Text Detector says that the which detects the text from images by drawing the bounding box.
@@ -17,7 +20,9 @@ for text detection i used EAST architecture.
 ## Text Recognition:
 implemented the CRNN(Convolutional Recurrent Neural Network) architecture.
 
-I tried with 3 models 
+## architectures
+
+I tried with 3 architectures
 a.VGG16
 b.VGG19
 c.Resnet50
