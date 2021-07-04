@@ -8,6 +8,7 @@ The main objective of this Problem Statement is to detect the text from image an
 ## Data
 Syntext data:
 https://www.robots.ox.ac.uk/~vgg/data/scenetext/
+
 ICDAR2015:
 https://rrc.cvc.uab.es/?ch=4&com=downloads
 ## Text Detection:
@@ -20,9 +21,11 @@ I tried with 3 models
 a.VGG16
 b.VGG19
 c.Resnet50
+
 i found that resnet50 model is performing very well compared to vgg16 and vgg19 
 
 Deployment youtube link:
 https://www.youtube.com/watch?v=YqE7WiIMx2k
+
 Please check my blog:
 https://anuragreddy1241.medium.com/scene-text-detection-and-recognition-197297ab368f
