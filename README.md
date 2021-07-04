@@ -31,7 +31,8 @@ i found that resnet50 model is performing very well compared to vgg16 and vgg19
 
 Deployment youtube link:
 1.Deployed used streamlit and ngrok.
-https://www.youtube.com/watch?v=YqE7WiIMx2k
+
+Demo results:https://www.youtube.com/watch?v=YqE7WiIMx2k
 
 Please check my blog:
 https://anuragreddy1241.medium.com/scene-text-detection-and-recognition-197297ab368f
